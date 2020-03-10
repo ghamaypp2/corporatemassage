@@ -1,0 +1,36 @@
+Mar 09 2020 08:56:12
+{"Number":2,"Message":"fopen(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/uploads.zip): failed to open stream: Permission denied","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":72}
+
+Mar 10 2020 03:55:44
+{"Number":2,"Message":"fopen(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/uploads.zip): failed to open stream: Permission denied","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":72}
+
+Mar 10 2020 03:57:20
+{"Number":2,"Message":"fopen(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/uploads.zip): failed to open stream: Permission denied","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":72}
+
+Mar 10 2020 03:57:58
+{"Number":2,"Message":"Division by zero","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-content.php","Line":77}
+
+Mar 10 2020 03:59:01
+{"Number":2,"Message":"fopen(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/uploads.zip): failed to open stream: Permission denied","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":72}
+
+Mar 10 2020 04:01:07
+{"Number":2,"Message":"fopen(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/uploads.zip): failed to open stream: Permission denied","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":72}
+
+Mar 10 2020 04:03:43
+{"Number":2,"Message":"fopen(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/uploads.zip): failed to open stream: Permission denied","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":72}
+
+Mar 10 2020 04:10:54
+{"Number":2,"Message":"unlink(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/ai1wm-backups\/corporatemassage.ph-20200310-040243-6waq0y.wpress): No such file or directory","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/class-ai1wm-backups.php","Line":96}
+
+Mar 10 2020 04:10:59
+{"Number":2,"Message":"unlink(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/ai1wm-backups\/corporatemassage.ph-20200310-040017-pglvro.wpress): No such file or directory","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/class-ai1wm-backups.php","Line":96}
+
+Mar 10 2020 04:11:03
+{"Number":2,"Message":"unlink(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/ai1wm-backups\/corporatemassage.ph-20200310-035825-d5jjm0.wpress): No such file or directory","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/class-ai1wm-backups.php","Line":96}
+
+Mar 10 2020 04:11:08
+{"Number":2,"Message":"unlink(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/ai1wm-backups\/corporatemassage.ph-20200310-035748-wka4tq.wpress): No such file or directory","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/class-ai1wm-backups.php","Line":96}
+
+Mar 10 2020 04:11:12
+{"Number":2,"Message":"unlink(\/var\/www\/html_corpmassage\/wordpress\/wp-content\/ai1wm-backups\/corporatemassage.ph-20200310-035641-lj1fyu.wpress): No such file or directory","File":"\/var\/www\/html_corpmassage\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/class-ai1wm-backups.php","Line":96}
+
